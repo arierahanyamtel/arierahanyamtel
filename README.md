@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.ibb.co.com/HDZQt1T/text.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/arierahanyamtel/arierahanyamtel/blob/main/text.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 <i>Project Tools & Api</i><br>
-<a href="https://api.akuari.my.id"><img align="center" width="300px" src="https://svgur.com/i/16MW.svg" alt="Tools Api"></a>
+<a href="https://api.akuari.my.id"><img align="center" width="300px" src="https://github.com/arierahanyamtel/arierahanyamtel/blob/main/logoakuaritools.svg" alt="Tools Api"></a>
 
 ---
 
