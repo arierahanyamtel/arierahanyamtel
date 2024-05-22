@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Halo!👋  Saya Moh. Harysakti Rahanyamtel, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/arierahanyamtel/arierahanyamtel/blob/master/Hi.gif" width="30"></h2>
+<h2> Halo!👋  Saya Moh. Harysakti Rahanyamtel, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/arierahanyamtel/arierahanyamtel/main/Hi.gif" width="30"></h2>
 </div>
 
 <div align="center" width="50">
