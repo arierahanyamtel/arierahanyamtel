@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Halo!👋  Saya Moh. Harysakti Rahanyamtel, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/arierahanyamtel/arierahanyamtel/main/Hi.gif" width="30"></h2>
+<h2> Halo!👋  Saya Moh. Harysakti Rahanyamtel, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/arierahanyamtel/arierahanyamtel/blob/main/Hi.gif" width="30"></h2>
 </div>
 
 <div align="center" width="50">
@@ -27,7 +27,7 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/arie-rahanyamtel-249468163/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/arierahanyamtel" target="_blank"><img src="https://img.shields.io/badge/arierahanyamtel-instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="instagram"></a>
 <a href="https://facebook.com/muh.sakty" target="_blank"><img src="https://img.shields.io/badge/muh.sakty-facebook-blue?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://akuari.my.id" target="_blank"><img src="https://img.shields.io/badge/My%20Web-%230A0A0A.svg?&style=flat-square" alt="MY.id"></a>
