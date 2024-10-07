@@ -22,7 +22,7 @@
 
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/arie-rahanyamtel-249468163/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 <a href="https://www.instagram.com/arierahanyamtel" target="_blank"><img src="https://img.shields.io/badge/arierahanyamtel-instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="instagram"></a>
 <a href="https://facebook.com/muh.sakty" target="_blank"><img src="https://img.shields.io/badge/muh.sakty-facebook-blue?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://akuari.my.id" target="_blank"><img src="https://img.shields.io/badge/My%20Web-%230A0A0A.svg?&style=flat-square" alt="MY.id"></a>
